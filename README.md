@@ -1,2 +1,2 @@
-# Convolutional-Neural-Network-on-Images-dataset
+# Neural-Network-on-Images-dataset
 This project shows how a Convolutional neural network is built, trained, and tested on Images’ dataset. After building the network, I worked on the way to improve the performance i.e the accuracy value of the Convolutional neural network by adding more convolutional layers and more pooling layers. The process of uploading the CIFAR_10 dataset to the remote VM server, is also explained.
